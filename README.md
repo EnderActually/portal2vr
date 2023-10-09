@@ -9,9 +9,6 @@
 ### Make Sure to launch portal 2 with the `insecure` flag.
 This game contains flashing lights and fast motion sequences.
 
-## Portal 2 VR Mod First 20 Minutes (Youtube Video)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nQZ601kEDFI/0.jpg)](https://www.youtube.com/watch?v=nQZ601kEDFI)
-
 ## Things that work
 * Singleplayer
 * 6DoF VR view
