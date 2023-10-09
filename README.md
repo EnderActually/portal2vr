@@ -23,7 +23,7 @@ This game contains flashing lights and fast motion sequences.
 * In-game UI and pause menu are broken
 * 6DoF and Roomscale needs to be reimplemented
 * CPU is underutilized
-* Chell can sometimes be detached from the player head (resenter the playspace to fix)
+* Chell can sometimes be detached from the player head (Resenter the playspace to fix)
 
 ## How to use
 1. Download [Portal2VR.zip](https://github.com/Gistix/portal2vr/releases) and extract the files to your Portal 2 directory (steamapps\common\Portal 2)
